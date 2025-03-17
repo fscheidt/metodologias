@@ -10,10 +10,16 @@
 
 ## Aula 2 - Teste unitário
 - assert
-- escrita de testes com pytest
+- execução de testes com pytest
 
-```console
+```bash
 python3 -m venv env
 source env/bin/activate
 pip install pytest
+```
+
+Executar teste usando pytest:
+
+```console
+pytest -v
 ```
