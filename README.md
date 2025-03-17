@@ -7,3 +7,13 @@
 - Período letivo: 2025/1
 - Período aulas: 10/03/25 à jul/25
 - **[Repositório](https://github.com/fscheidt/metodologias)**
+
+## Aula 2 - Teste unitário
+- assert
+- escrita de testes com pytest
+
+```console
+python3 -m venv env
+source env/bin/activate
+pip install pytest
+```
