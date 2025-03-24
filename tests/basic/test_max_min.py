@@ -1,8 +1,4 @@
-def max_num():    
-    return 3
-
-def min_num():
-    return 0
+from src.basic.max_min import *
 
 def test_max_num():
     assert max_num() == 3
