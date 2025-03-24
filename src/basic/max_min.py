@@ -3,5 +3,3 @@ def max_num():
 
 def min_num():
     return 0
-
-
